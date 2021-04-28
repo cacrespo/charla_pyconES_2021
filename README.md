@@ -25,7 +25,7 @@ Por otro lado, creo que las particularidades de la iniciativa a la que refiero (
 
 ### ¿Estás resolviendo algún problema conocido? ¿Cuál?
 Cuando arrancamos con el proyecto era prácticamente nula la documentación oficial en español.
-Brindar la posibilidad de sumarse a una iniciativa concreta y de alto impacto. Muchas personas tienen ganas de empezar a aportar al desarrollo de Python y aprender y tal vez no encuentran cómo hacerlo.
+Muchas personas tienen ganas de empezar a aportar al desarrollo de Python y aprender y tal vez no encuentran cómo hacerlo. Este proyecto brinda la posibilidad de sumarse a una iniciativa concreta y de alto impacto. 
 
 ### ¿Es una charla sobre una experiencia personal o de comunidad?
 Si bien voy a referir a mi experiencia personal, también podría decir que es "comunitaria". Además, quiero conversar sobre lo que hacemos y la dinámica de trabajo que llevamos adelante.
