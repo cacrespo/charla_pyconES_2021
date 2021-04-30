@@ -65,5 +65,5 @@ todas las personas es de un valor inconmensurable.
 
 Espero que puedan descubrir un espacio de colaboración siempre abierto a compartir, crecer y ayudar.
 
-[1] El español, una lengua viva. Informe 2020. Instituto Cervantes. 
+[1] El español, una lengua viva. Informe 2020. Instituto Cervantes.
 Disponible [aquí](https://cvc.cervantes.es/lengua/espanol_lengua_viva/pdf/espanol_lengua_viva_2020.pdf)
