@@ -14,7 +14,7 @@ Adicionalmente, si consideramos que el Español es la segunda lengua materna
 del mundo por número de hablantes[1], lo hace un idioma fundamental para la
 documentación de una iniciativa tan importante como lo es Python.
 
-1. Definición del problema
+2. Definición del problema
 
 Hace un año, el Español no era un lenguaje en el cual se presentara la
 documentación oficial de Python, lo cuál generaba dos problemas principales:
@@ -23,7 +23,7 @@ a los documentos, y
 - los esfuerzos de traducciones estaban fragmentados, y muchas comunidades
 intentaron solucionar esta situación con traducciones parciales.
 
-1. Por qué es importante buscar una solución
+3. Por qué es importante buscar una solución
 
 Ofrecer la documentación oficial de Python en Español brindará la
 oportunidad a la comunidad mundial de hispanohablantes de poder acceder
