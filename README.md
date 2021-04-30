@@ -3,9 +3,9 @@ Material para la charla "python-docs-es" -  PyConES, Oct 3-4, 2021
 
 1. Contexto
 
-Al momento de comenzar realizar una primera contribución a Python, muchas
-personas que están comenzando -o sienten que no tienen suficiente
-experiencia- se sienten intimidadas, ya que la asociación directa es
+Al momento de realizar una primera contribución a Python, muchas
+personas que están comenzando (o sienten que no tienen suficiente
+experiencia) se sienten intimidadas, ya que la asociación directa es
 'escribir código avanzado'. Sin embargo, mucha gente olvida que la
 documentación de los proyectos juega un papel muy importante para el
 desarrollo y crecimiento de los mismos.
@@ -27,12 +27,12 @@ intentaron solucionar esta situación con traducciones parciales.
 
 Ofrecer la documentación oficial de Python en Español brindará la
 oportunidad a la comunidad mundial de hispanohablantes de poder acceder
-directamente a ella, sin necesitar un segundo lenguaje; pero además
+directamente a ella, sin necesitar un segundo idioma; pero además
 creará lazos de identidad en aquellos que se sumen al ejercicio colectivo de
 explicar y traducir los conceptos de la documentación.
 Se genera identidad y comunidad. Vos viste: ¡traducir flipa! 😉
 
-4. ¿Qué se hablará y que aprenderá la gente?
+4. ¿De qué se hablará y qué aprenderán los asistentes?
 
 Compartiré mi experiencia personal, reflejando las experiencias de las
 casi 200 personas que actualmente participan de este esfuerzo colectivo.
@@ -48,11 +48,10 @@ tu primera contribución a Python y podrás ser parte de un hito importantísimo
 en la historia de las comunidades hispanohablante de Python.
 
 ### ¿Qué te motivó a hacer esta charla?
-Participar del proyecto del cual quiero exponer, ha sido una experiencia de
-desarrollo personal genuinamente comunitaria y fuertemente anclada en el
-crecimiento de Python (Sí, de Python. Así como lo lees 😜). De allí que quiero
-animar a las personas a sumarse, descubrir, y sorprenderse de todo lo que es posible
-a través de un lenguaje de programación.
+Participar del proyecto ha sido una experiencia de desarrollo personal genuinamente
+comunitaria y fuertemente anclada en el crecimiento de Python (Sí, de Python. Así
+como lo lees 😜). De allí que quiero animar a las personas a sumarse, descubrir, y
+sorprenderse de todo lo que es posible a través de un lenguaje de programación.
 
 Por otro lado, creo que esta iniciativa rompe barreras de acceso para una gran mayoría
 que se quiere iniciar en la programación y no domina el inglés: romper esas barreras es
@@ -60,7 +59,7 @@ una de las motivaciones que me guian. Como acto de amor en devolución a todo lo
 recibido generosamente y fundamentalmente como acto de justicia por aquellos que aún no
 han tenido las mismas oportunidades.
 
-Brindar la posibilidad de sumarse a una iniciativa concreta, de alto impacto y accesible a
+Brindar la posibilidad de sumarse a un proyecto concreto, de alto impacto y accesible a
 todas las personas es de un valor inconmensurable.
 
 Espero que puedan descubrir un espacio de colaboración siempre abierto a compartir, crecer y ayudar.
